@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">snake</string>
+    <string name="pause">pause</string>
+    <string name="cont">continue</string>
+    <string name="gameOver">GAME OVER</string>
+    <string name="newGame">New Game</string>
+</resources>
